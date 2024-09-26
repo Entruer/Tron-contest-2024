@@ -1,0 +1,9 @@
+[submodule "tron-main"]
+	path = tron-main
+	url = https://github.com/Entruer/tron-main.git
+[submodule "Tron-receiver"]
+	path = Tron-receiver
+	url = https://github.com/Entruer/Tron-receiver.git
+[submodule "Tron-cup"]
+	path = Tron-cup
+	url = https://github.com/Entruer/Tron-cup.git
